@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="library" method="upgrade">
+	<name>Yandex Turbo Pages RSS feed</name>
+	<libraryname>joomla\document\renderer\feed</libraryname>
+	<description>Yandex Turbo Pages specific RSS feed schema</description>
+	<author>Pabl Moneylesh</author>
+	<creationDate>25.11.2017</creationDate>	
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>	
+	<version>1.0</version>
+	<files>
+		<file>ytrss.php</file>		
+	</files>
+</extension>
